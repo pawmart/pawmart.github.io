@@ -2,12 +2,11 @@
 layout: post
 status: publish
 published: true
-title: Create custom wordpress navigation with active state using wp_list_pages();
-  and wp_list_categories();
+title: Create custom wordpress navigation with active state using wp_list_pages(); and wp_list_categories();
 excerpt: 'Wordpress navigation can be tricky to create and sometimes we are not able
   to create it as we want. Problems starts if our website structure forces us to display
   categories, pages and home buttons and keep the active status even if deep into
-  the category strucutre. This tutorial will explain how to acomplish just that. '
+  the category structure. This tutorial will explain how to accomplish just that. '
 wordpress_id: 1281
 wordpress_url: http://www.pawelmartuszewski.co.uk/?p=1281
 date: 2010-01-15 20:30:58.000000000 +00:00
