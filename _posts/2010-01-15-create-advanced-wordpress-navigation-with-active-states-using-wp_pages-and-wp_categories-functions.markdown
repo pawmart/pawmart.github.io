@@ -18,9 +18,9 @@ tags:
 - Wordpress
 - Navigation
 ---
-<img class="fl_lft thumb m_b_20" width="154" height="154" title="custom wordpress navigation" alt="custom wordpress navigation" src="http://www.pawelmartuszewski.co.uk/tuts/custom_wp_nav/custom_wp_nav.png"/>Wordpress navigation can be tricky to create and sometimes we are not able to create it as we want. Problems starts if our website structure forces us to display categories, pages and home buttons and keep the active status even if deep into the category strucutre. This tutorial will explain how to acomplish just that. 
 
-<p class="b">Looking for demo? This webiste is the demo of this tutorial.</p>
+<p><img class="fl_lft thumb m_b_20" width="154" height="154" title="custom wordpress navigation" alt="custom wordpress navigation" src="http://www.pawelmartuszewski.co.uk/tuts/custom_wp_nav/custom_wp_nav.png"/>Wordpress navigation can be tricky to create and sometimes we are not able to create it as we want. Problems starts if our website structure forces us to display categories, pages and home buttons and keep the active status even if deep into the category strucutre. This tutorial will explain how to acomplish just that.</p>
+<p class="b">Looking for demo? This website is the demo of this tutorial.</p>
 
 <h2>What we are going to create</h2>
 <p>We are going to create a custom wordpress navigation similar to this one on this website. One navigation containing home page button, page buttons and category buttons and active state.</p>
