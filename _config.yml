@@ -1,0 +1,20 @@
+name: Pawel Martuszewski
+title: Pawel Martuszewski
+description: Pawel Martuszewski Blog
+permalink: /:title
+paginate: 10
+paginate_path: "blog/page:num"
+url:
+    main: ''
+    feed: 'http://zalas.eu'
+    assets: ''
+author:
+    name: Pawel Martuszewski
+    email: contact@pawelmartuszewski.co.uk
+disqus:
+    shortname: pawmart
+#analytics:
+#    google: UA-607315-8
+#    verify: PBznb5+bhxbUdD7HvioYYudpqitFdLDgjQTv8SwALq4=
+pygments: true
+exclude: ["vendor"]

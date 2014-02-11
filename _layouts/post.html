@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<div class="post-date pull-right">{% include postDate.html %}</div>
+<ul class="list-unstyled list-inline post-tag-cloud">
+    {% for tag in page.tags %}
+        <li>
+            <span class="glyphicon glyphicon-tag"></span>
+            <a href="{{ site.url.main }}/tag/{{ tag | slugize }}/">
+                <span class="list-group-item-heading">{{ tag }}</span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>
+
+<article class="content">{{ content }}</article>
+
+{% include comments.html %}
