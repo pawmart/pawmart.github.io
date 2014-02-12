@@ -10,10 +10,6 @@ excerpt: 'Wordpress navigation can be tricky to create and sometimes we are not 
 wordpress_id: 1281
 wordpress_url: http://www.pawelmartuszewski.co.uk/?p=1281
 date: 2010-01-15 20:30:58.000000000 +00:00
-categories:
-- Tutorials
-- CSS Tutorials
-- Wordpress Tutorials
 tags:
 - Wordpress
 - Navigation
@@ -24,8 +20,6 @@ tags:
 
 <h2>What we are going to create</h2>
 <p>We are going to create a custom wordpress navigation similar to this one on this website. One navigation containing home page button, page buttons and category buttons and active state.</p>
-
-<img src="/tuts/custom_wp_nav/1.png" alt="custom wordrpess navigation"/>
 
 <h2>Our navigation structure</h2>
 <p>We would like to display the home button followed by pages, followed by our main categories. The navigation structure code is:</p>
